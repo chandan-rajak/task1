@@ -1,14 +1,16 @@
 *{
-    background-color: aquamarine;
+    background-color: rgb(194, 206, 174);
     justify-items: center;
 }
 div{
     height: 300px;
     width: 400px;
-    background-color: rgb(162, 216, 216);
+    border-radius: 10px;
+    background-color: rgb(162, 216, 162);
 }
 .texts{
     background-color: transparent;
+    margin-top: 30px;
 }
 h1{
     text-decoration: underline;

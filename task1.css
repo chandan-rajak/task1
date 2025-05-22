@@ -1,0 +1,19 @@
+*{
+    background-color: aquamarine;
+    justify-items: center;
+}
+div{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(162, 216, 216);
+}
+.texts{
+    background-color: transparent;
+}
+h1{
+    text-decoration: underline;
+    color: blue;
+}
+h4{
+    margin: 15px;
+}
